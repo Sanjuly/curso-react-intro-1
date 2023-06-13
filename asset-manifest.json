@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sanjuly/curso-react-intro-1.git/static/css/main.9e67386f.css",
-    "main.js": "/Sanjuly/curso-react-intro-1.git/static/js/main.012f2a89.js",
-    "index.html": "/Sanjuly/curso-react-intro-1.git/index.html",
-    "static/media/delete.svg": "/Sanjuly/curso-react-intro-1.git/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/Sanjuly/curso-react-intro-1.git/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.9e67386f.css.map": "/Sanjuly/curso-react-intro-1.git/static/css/main.9e67386f.css.map",
-    "main.012f2a89.js.map": "/Sanjuly/curso-react-intro-1.git/static/js/main.012f2a89.js.map"
+    "main.css": "./static/css/main.9e67386f.css",
+    "main.js": "./static/js/main.41daa30a.js",
+    "static/media/delete.svg": "./static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "index.html": "./index.html",
+    "static/media/check.svg": "./static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.9e67386f.css.map": "./static/css/main.9e67386f.css.map",
+    "main.41daa30a.js.map": "./static/js/main.41daa30a.js.map"
   },
   "entrypoints": [
     "static/css/main.9e67386f.css",
-    "static/js/main.012f2a89.js"
+    "static/js/main.41daa30a.js"
   ]
 }
